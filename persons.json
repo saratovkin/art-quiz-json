@@ -1,0 +1,282 @@
+[
+  {
+    "questionText": "Henryk Sienkiewicz",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Władysław Reymont",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Czesław Miłosz",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Wisława Szymborska",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Olga Tokarczuk",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Adam Mickiewicz",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Mikołaj Rej",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Eliza Orzeszkowa",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Bolesław Prus",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Sergiusz Piasecki",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Stanisław Jerzy Lec",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Stanisław Lem",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Janusz Leon Wiśniewski",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Monika Szwaja",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Joanna Chmelewska",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Andrzej Sapkowski",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Jan Brzechwa",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Julian Tuwim",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Maria Konopnicka",
+    "answerText": "pisarz"
+  },
+  {
+    "questionText": "Jan Matejko",
+    "answerText": "malerz"
+  },
+  {
+    "questionText": "Jacek Malczewski",
+    "answerText": "malerz"
+  },
+  {
+    "questionText": "Wojciech Kossak",
+    "answerText": "malerz"
+  },
+  {
+    "questionText": "Stanisław Wyspiański",
+    "answerText": "malerz"
+  },
+  {
+    "questionText": "Fryderyk Chopin",
+    "answerText": "kompozytor"
+  },
+  {
+    "questionText": "Stanisław Moniuszko",
+    "answerText": "kompozytor"
+  },
+  {
+    "questionText": "Karol Szymanowski",
+    "answerText": "kompozytor"
+  },
+  {
+    "questionText": "Witold Lutosławski",
+    "answerText": "kompozytor"
+  },
+  {
+    "questionText": "Krzysztof Penderecki",
+    "answerText": "kompozytor"
+  },
+  {
+    "questionText": "Władysław Szpilman",
+    "answerText": "kompozytor/pianista"
+  },
+  {
+    "questionText": "Maria Curie-Skłodowska",
+    "answerText": "naukowiec"
+  },
+  {
+    "questionText": "Mikołaj Kopernik ",
+    "answerText": "naukowiec"
+  },
+  {
+    "questionText": "Ludwik Zamenhof",
+    "answerText": "naukowiec"
+  },
+  {
+    "questionText": "Andrzej Wajda",
+    "answerText": "reżyser"
+  },
+  {
+    "questionText": "Roman Polański",
+    "answerText": "reżyser"
+  },
+  {
+    "questionText": "Jerzy Hoffman",
+    "answerText": "reżyser"
+  },
+  {
+    "questionText": "Krzysztof Kieślowski",
+    "answerText": "reżyser"
+  },
+  {
+    "questionText": "Krzysztof Zanussi",
+    "answerText": "reżyser"
+  },
+  {
+    "questionText": "Jerzy Stuhr",
+    "answerText": "aktor"
+  },
+  {
+    "questionText": "Barbara Brylska",
+    "answerText": "aktor"
+  },
+  {
+    "questionText": "Anna Wiktoria German",
+    "answerText": "piosenkarka"
+  },
+  {
+    "questionText": "Czesław Niemen",
+    "answerText": "piosenkarz"
+  },
+  {
+    "questionText": "Maryla Rodowicz",
+    "answerText": "piosenkarka"
+  },
+  {
+    "questionText": "Adam Małysz",
+    "answerText": ""
+  },
+  {
+    "questionText": "Robert Lewandowski",
+    "answerText": "pilkarz"
+  },
+  {
+    "questionText": "Agnieszka Radwańska",
+    "answerText": "tenisistka"
+  },
+  {
+    "questionText": "Robert Kubica",
+    "answerText": "kierowca"
+  },
+  {
+    "questionText": "Zbigniew Boniek",
+    "answerText": "kierowca"
+  },
+  {
+    "questionText": "Tomasz Adamek",
+    "answerText": "pięściarz"
+  },
+  {
+    "questionText": "Marcin Gortat",
+    "answerText": "koszykarz"
+  },
+  {
+    "questionText": "Mieszko I",
+    "answerText": "wladca"
+  },
+  {
+    "questionText": "Bolesław I Chrobry",
+    "answerText": "król"
+  },
+  {
+    "questionText": "Kazimierz III Wielki",
+    "answerText": "król"
+  },
+  {
+    "questionText": "Władysław Jagiełło",
+    "answerText": "król"
+  },
+  {
+    "questionText": "Zygmunt II August",
+    "answerText": "król"
+  },
+  {
+    "questionText": "Stefan Batory",
+    "answerText": "król"
+  },
+  {
+    "questionText": "Zygmunt III Waza",
+    "answerText": "król"
+  },
+  {
+    "questionText": "Jan III Sobieski",
+    "answerText": "król"
+  },
+  {
+    "questionText": "Stanisław August Poniatowski",
+    "answerText": "król"
+  },
+  {
+    "questionText": "Jan Paweł II",
+    "answerText": "papierz"
+  },
+  {
+    "questionText": "Tadeusz Kościuszko",
+    "answerText": "inżynier wojskowy"
+  },
+  {
+    "questionText": "Gabriel Narutowicz",
+    "answerText": "polityk"
+  },
+  {
+    "questionText": "Stanisław Wojciechowski",
+    "answerText": "polityk"
+  },
+  {
+    "questionText": "Ignacy Mościcki",
+    "answerText": "polityk"
+  },
+  {
+    "questionText": "Wojciech Jaruzelski",
+    "answerText": "polityk"
+  },
+  {
+    "questionText": "LechWałęsa",
+    "answerText": "polityk"
+  },
+  {
+    "questionText": "Aleksander Kwaśniewski",
+    "answerText": "polityk"
+  },
+  {
+    "questionText": "Lech Kaczyński",
+    "answerText": "polityk"
+  },
+  {
+    "questionText": "Bronisław Komorowski",
+    "answerText": "polityk"
+  },
+  {
+    "questionText": "Andrzej Duda",
+    "answerText": "polityk"
+  },
+  {
+    "questionText": "Mateusz Morawiecki",
+    "answerText": "polityk"
+  }
+]
