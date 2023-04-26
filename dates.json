@@ -4,12 +4,48 @@
     "answerText": "966r."
   },
   {
+    "questionText": "Bolesław Chrobry został koronowany",
+    "answerText": "1025r."
+  },
+  {
+    "questionText": "Unia w Krewie",
+    "answerText": "1385r."
+  },
+  {
     "questionText": "Bitwa pod Grunwaldem",
     "answerText": "15 lipca 1410"
   },
   {
+    "questionText": "Unia lubelska",
+    "answerText": "1569r."
+  },
+  {
+    "questionText": "Warszawa zostaje stolicą",
+    "answerText": "1596r."
+  },
+  {
+    "questionText": "I rozbior RP",
+    "answerText": "1772r."
+  },
+  {
     "questionText": "Konstytucja Polski",
     "answerText": "3 maja 1791"
+  },
+  {
+    "questionText": "II rozbior RP",
+    "answerText": "1793r."
+  },
+  {
+    "questionText": "Powstanie kościuszkowskie",
+    "answerText": "1794r."
+  },
+  {
+    "questionText": "III rozbior RP",
+    "answerText": "1795r."
+  },
+  {
+    "questionText": "Powstanie Legionów polskich we Włoszech",
+    "answerText": "1797r."
   },
   {
     "questionText": "Polska otrzymała niepodległość",
@@ -44,16 +80,28 @@
     "answerText": "1 sierpnia 1944"
   },
   {
+    "questionText": "Początek komunizmu w Polsce",
+    "answerText": "1945r."
+  },
+  {
     "questionText": "Jan Pawel II został papieżem",
-    "answerText": "1978"
+    "answerText": "1978r."
+  },
+  {
+    "questionText": "Stan wojenny w Polsce",
+    "answerText": "13 grudnia 1981"
+  },
+  {
+    "questionText": "Pierwsze demokratyczne wybory w Polsce",
+    "answerText": "1990r."
   },
   {
     "questionText": "Polska przystąpiła do NATO",
-    "answerText": "1999"
+    "answerText": "1999r."
   },
   {
     "questionText": "Polska przystąpiła do UE",
-    "answerText": "2004"
+    "answerText": "2004r."
   },
   {
     "questionText": "Katastrofa pod Smoleńskiem",
